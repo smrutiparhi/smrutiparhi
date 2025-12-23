@@ -19,6 +19,9 @@
   <a href="https://github.com/smrutiparhi">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://smruti-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23667eea.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
@@ -214,6 +217,8 @@ Sleek, performance-optimized portfolio showcasing projects and technical experti
 
 **Impact:** Professional brand presence online
 
+🔗 [**View Live Site →**](https://smruti-portfolio.onrender.com)
+
 </td>
 </tr>
 </table>
@@ -269,6 +274,7 @@ I'm always excited to connect with fellow developers, work on innovative project
 [![Email](https://img.shields.io/badge/Email-smrutiparhi81@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrutiparhi81@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Smruti_Ranjan_Parhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smruti-parhi-35396b231)
 [![GitHub](https://img.shields.io/badge/GitHub-@smrutiparhi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smrutiparhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smruti-portfolio.onrender.com)
 
 <br>
 
