@@ -1,4 +1,4 @@
-<!-- ======= HERO HEADER ======= -->
+<!-- ======= ELEGANT HEADER BANNER ======= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Smruti%20Ranjan%20Parhi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20Through%20Code&descAlignY=51&descSize=16&descAlign=50" width="100%"/>
 </div>
