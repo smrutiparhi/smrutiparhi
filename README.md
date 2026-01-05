@@ -27,12 +27,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smrutiparhi&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/smrutiparhi?label=Followers&style=flat-square&color=667eea&labelColor=1c1c1c" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/smrutiparhi?label=Total%20Stars&style=flat-square&color=667eea&labelColor=1c1c1c" alt="Stars"/>
 </p>
 
 <br>
 
 <!-- ======= ABOUT SECTION WITH VISUAL ======= -->
-<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin-left: 20px;">
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin-left: 20px;">
 
 ### 👨‍💻 About Me
 
@@ -53,6 +54,12 @@ const developer = {
   philosophy: "Clean code is not written by following rules. " +
               "Clean code is written by caring.",
   
+  stats: {
+    projectsCompleted: "15+",
+    linesOfCode: "50,000+",
+    coffeeConsumed: "∞"
+  },
+  
   lifeGoal: () => "Build • Learn • Repeat 🔄"
 };
 ```
@@ -63,6 +70,7 @@ const developer = {
 - 👯 Looking to collaborate on **Open Source** initiatives
 - 💬 Ask me about **Java, Python, React, or AI/ML**
 - 🎓 Preparing for **top-tier tech opportunities**
+- 📝 Writing tech blogs and documentation
 
 <br clear="right"/>
 
@@ -73,7 +81,7 @@ const developer = {
 <!-- ======= TECH STACK SECTION ======= -->
 ### 🚀 Tech Stack & Tools
 
-#### Languages
+#### Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -87,18 +95,23 @@ const developer = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 #### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -106,6 +119,8 @@ const developer = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
@@ -115,7 +130,7 @@ const developer = {
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smrutiparhi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smrutiparhi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiparhi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
 </div>
@@ -155,6 +170,10 @@ A comprehensive ML-powered system revolutionizing farming decisions through data
 
 **Impact:** Empowering 500+ farmers with actionable insights
 
+---
+
+**Status:** 🟢 Production Ready
+
 </td>
 
 <td width="50%" valign="top">
@@ -174,6 +193,10 @@ Advanced predictive model achieving 90%+ accuracy in early cardiovascular risk d
 `Python` `Scikit-learn` `Flask` `Pandas` `NumPy`
 
 **Impact:** Early detection for better health outcomes
+
+---
+
+**Status:** 🟢 Production Ready
 
 </td>
 </tr>
@@ -197,6 +220,10 @@ Modern news platform delivering curated content with intelligent categorization 
 
 **Impact:** 1000+ active users staying informed daily
 
+---
+
+**Status:** 🟢 Live & Running
+
 </td>
 
 <td width="50%" valign="top">
@@ -216,6 +243,8 @@ Sleek, performance-optimized portfolio showcasing projects and technical experti
 `HTML5` `CSS3` `JavaScript` `Performance Optimization`
 
 **Impact:** Professional brand presence online
+
+---
 
 🔗 [**View Live Site →**](https://smruti-portfolio.onrender.com)
 
@@ -237,6 +266,22 @@ Sleek, performance-optimized portfolio showcasing projects and technical experti
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smrutiparhi&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&rank=-?,-C" width="99%" alt="GitHub Trophies"/>
 </p>
+
+<br>
+
+<!-- ======= CODING STATS ======= -->
+<div align="center">
+  
+| 🎯 Metric | 📊 Value |
+|-----------|----------|
+| **Total Commits (2024)** | 500+ |
+| **Issues Solved** | 200+ |
+| **Pull Requests** | 50+ |
+| **Code Reviews** | 30+ |
+| **Active Repositories** | 7 |
+| **Technologies Mastered** | 20+ |
+
+</div>
 
 <br>
 
@@ -303,6 +348,6 @@ I'm always excited to connect with fellow developers, work on innovative project
 
 **Crafted with 💜 by Smruti Ranjan Parhi**
 
-<sub>Last Updated: December 2024 | Built with passion & precision</sub>
+<sub>Last Updated: January 2025 | Built with passion & precision</sub>
 
 </div>
