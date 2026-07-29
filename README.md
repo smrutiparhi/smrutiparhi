@@ -1,353 +1,131 @@
-<!-- ======= HERO HEADER ======= -->
+<!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Smruti%20Ranjan%20Parhi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20Through%20Code&descAlignY=51&descSize=16&descAlign=50" width="100%"/>
-</div>
 
-<!-- ======= DYNAMIC SUBTITLE ======= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Impactful+Applications;B.Tech+CSE+%40+KL+University;Turning+Complex+Problems+Into+Simple+Solutions" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Smruti%20Ranjan%20Parhi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Applied%20AI%20%7C%20B.Tech%20CSE%20'28&descAlignY=58&descSize=15" width="100%"/>
 
-<!-- ======= MODERN BADGES ======= -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/smruti-parhi-35396b231">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:smrutiparhi81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/smrutiparhi">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://smruti-portfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23667eea.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/smruti-parhi-35396b231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:smrutiparhi81@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://smruti-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smrutiparhi&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/smrutiparhi?label=Followers&style=flat-square&color=667eea&labelColor=1c1c1c" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/smrutiparhi?label=Total%20Stars&style=flat-square&color=667eea&labelColor=1c1c1c" alt="Stars"/>
-</p>
-
-<br>
-
-<!-- ======= ABOUT SECTION WITH VISUAL ======= -->
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin-left: 20px;">
-
-### 👨‍💻 About Me
-
-```javascript
-const developer = {
-  name: "Smruti Ranjan Parhi",
-  location: "Hyderabad, India 🇮🇳",
-  education: "B.Tech Computer Science Engineering",
-  university: "KL University (Year 2)",
-  
-  expertise: {
-    languages: ["Java", "Python", "C/C++", "JavaScript"],
-    focus: ["Data Structures", "Algorithms", "Machine Learning"],
-    building: ["Web Applications", "AI Solutions", "Scalable Systems"]
-  },
-  
-  currentMission: "Creating technology that makes a difference",
-  philosophy: "Clean code is not written by following rules. " +
-              "Clean code is written by caring.",
-  
-  stats: {
-    projectsCompleted: "15+",
-    linesOfCode: "50,000+",
-    coffeeConsumed: "∞"
-  },
-  
-  lifeGoal: () => "Build • Learn • Repeat 🔄"
-};
-```
-
-**🎯 What I'm Up To:**
-- 🔭 Working on **Machine Learning** and **Full-Stack** projects
-- 🌱 Deepening my knowledge in **System Design** & **DSA**
-- 👯 Looking to collaborate on **Open Source** initiatives
-- 💬 Ask me about **Java, Python, React, or AI/ML**
-- 🎓 Preparing for **top-tier tech opportunities**
-- 📝 Writing tech blogs and documentation
-
-<br clear="right"/>
-
-<br>
-
----
-
-<!-- ======= TECH STACK SECTION ======= -->
-### 🚀 Tech Stack & Tools
-
-#### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
----
-
-<!-- ======= GITHUB STATS ======= -->
-### 📈 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smrutiparhi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiparhi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=smrutiparhi&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Contribution Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrutiparhi&custom_title=Contribution%20Activity&bg_color=0d1117&color=667eea&line=667eea&point=c9d1d9&area=true&hide_border=true" width="99%" alt="Contribution Graph"/>
 </div>
 
 <br>
 
----
+## About
 
-<!-- ======= FEATURED PROJECTS ======= -->
-### 💼 Featured Projects
+Third-year CSE student at KL University, Hyderabad. I build web applications end to end and I'm currently focused on **LLM-powered tools and agent workflows** — systems that do real work rather than just wrap an API call.
+
+Most of what I build starts with a problem someone I know actually has. That constraint keeps the projects honest.
+
+- 🔨 **Currently building** — an ATS resume analyzer (Next.js) that scores resumes against multiple job descriptions with inline keyword diffing
+- 📚 **Learning** — agent architectures, system design, and getting genuinely comfortable with TypeScript
+- 🎯 **Looking for** — Summer 2027 SDE / AI engineering internships
+- 💬 **Ask me about** — React, Python, ML pipelines, or RPA (Automation Anywhere certified)
+
+<br>
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🌾 KrishiMitra
-**Smart Agriculture Advisory Platform**
+### 🌾 KrishiMitra
+Agriculture advisory platform that turns weather and soil data into crop and irrigation recommendations for smallholder farmers.
 
-A comprehensive ML-powered system revolutionizing farming decisions through data-driven insights.
+`Python` `Flask` `scikit-learn` `Weather APIs`
 
-**Key Features:**
-- 🌡️ Weather-based crop recommendations
-- 💧 Smart irrigation scheduling
-- 🐛 AI-powered pest detection
-- 📊 Real-time agricultural analytics
+**What I learned:** cleaning genuinely messy real-world agricultural data, and that model accuracy matters far less than whether a farmer can act on the output.
 
-**Tech Stack:**
-`Python` `Machine Learning` `Flask` `APIs` `Data Analysis`
-
-**Impact:** Empowering 500+ farmers with actionable insights
-
----
-
-**Status:** 🟢 Production Ready
+[Repository →](https://github.com/smrutiparhi)
 
 </td>
-
 <td width="50%" valign="top">
 
-#### ❤️ Heart Disease Predictor
-**Healthcare ML Application**
+### ❤️ Cardiovascular Risk Classifier
+Supervised classifier for early cardiovascular risk screening, trained on the UCI heart disease dataset with a Flask interface for entering patient parameters.
 
-Advanced predictive model achieving 90%+ accuracy in early cardiovascular risk detection.
+`Python` `scikit-learn` `Pandas` `Flask`
 
-**Key Features:**
-- 🏥 Multi-parameter health analysis
-- 📈 Interactive risk visualization
-- 🔍 Personalized health recommendations
-- 📊 Comprehensive medical reports
+**What I learned:** why accuracy is the wrong metric for imbalanced medical data — precision/recall tradeoffs change the whole design.
 
-**Tech Stack:**
-`Python` `Scikit-learn` `Flask` `Pandas` `NumPy`
-
-**Impact:** Early detection for better health outcomes
-
----
-
-**Status:** 🟢 Production Ready
+[Repository →](https://github.com/smrutiparhi)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-#### 📰 News Summary App
-**Real-Time Information Aggregator**
+### 📰 News Aggregator
+React app that pulls from multiple news APIs with category filtering, search, and a responsive layout.
 
-Modern news platform delivering curated content with intelligent categorization and filtering.
+`React` `JavaScript` `REST APIs`
 
-**Key Features:**
-- ⚡ Lightning-fast news updates
-- 🎯 Smart category filtering
-- 📱 Mobile-optimized interface
-- 🔍 Advanced search functionality
+**What I learned:** state management at scale, and caching strategies to stay inside API rate limits.
 
-**Tech Stack:**
-`React` `JavaScript` `REST APIs` `Responsive Design`
-
-**Impact:** 1000+ active users staying informed daily
-
----
-
-**Status:** 🟢 Live & Running
+[Repository →](https://github.com/smrutiparhi)
 
 </td>
-
 <td width="50%" valign="top">
 
-#### 💼 Portfolio Website
-**Professional Digital Presence**
+### 🔍 ATS Resume Analyzer *(in progress)*
+Parses a resume against multiple job descriptions, scores keyword coverage, and highlights gaps inline instead of returning an opaque number.
 
-Sleek, performance-optimized portfolio showcasing projects and technical expertise.
+`Next.js` `TypeScript` `LLM APIs`
 
-**Key Features:**
-- 🎨 Modern minimalist design
-- ✨ Smooth scroll animations
-- 📱 Fully responsive layout
-- ⚡ Optimized performance
+**Building now** — the interesting problem is ranking which missing keywords actually matter.
 
-**Tech Stack:**
-`HTML5` `CSS3` `JavaScript` `Performance Optimization`
-
-**Impact:** Professional brand presence online
-
----
-
-🔗 [**View Live Site →**](https://smruti-portfolio.onrender.com)
+[Repository →](https://github.com/smrutiparhi)
 
 </td>
 </tr>
 </table>
 
+<br>
+
+## Tech Stack
+
+**Comfortable with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently learning**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br>
+
+## GitHub Activity
+
 <div align="center">
-  <sub>📌 Explore detailed code and documentation in pinned repositories below</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smrutiparhi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiparhi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6"/>
 </div>
 
 <br>
 
----
+## Get in Touch
 
-<!-- ======= ACHIEVEMENTS ======= -->
-### 🏆 Achievements & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smrutiparhi&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&rank=-?,-C" width="99%" alt="GitHub Trophies"/>
-</p>
-
-<br>
-
-<!-- ======= CODING STATS ======= -->
-<div align="center">
-  
-| 🎯 Metric | 📊 Value |
-|-----------|----------|
-| **Total Commits (2024)** | 500+ |
-| **Issues Solved** | 200+ |
-| **Pull Requests** | 50+ |
-| **Code Reviews** | 30+ |
-| **Active Repositories** | 7 |
-| **Technologies Mastered** | 20+ |
-
-</div>
-
-<br>
-
----
-
-<!-- ======= DEV QUOTE ======= -->
-### 💡 Developer Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote"/>
-</p>
-
-<br>
-
----
-
-<!-- ======= CONNECT SECTION ======= -->
-### 🤝 Let's Connect & Collaborate
+Open to internship opportunities, open-source collaboration, and interesting problems. The fastest way to reach me is email.
 
 <div align="center">
 
-I'm always excited to connect with fellow developers, work on innovative projects, and contribute to meaningful solutions!
+[![Email](https://img.shields.io/badge/smrutiparhi81@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrutiparhi81@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smruti-parhi-35396b231)
 
-**🌟 Open For:**
-- 💼 Internship & Full-time Opportunities
-- 🤝 Open Source Collaborations
-- 💡 Innovative Project Ideas
-- 📚 Technical Discussions & Mentorship
-- 🎯 Competitive Programming Teams
-
-<br>
-
-**📬 Reach Out:**
-
-[![Email](https://img.shields.io/badge/Email-smrutiparhi81@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrutiparhi81@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Smruti_Ranjan_Parhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smruti-parhi-35396b231)
-[![GitHub](https://img.shields.io/badge/GitHub-@smrutiparhi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smrutiparhi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smruti-portfolio.onrender.com)
-
-<br>
-
-⚡ **Quick Response Time:** Usually within 24 hours  
-🌍 **Location:** Hyderabad, India (IST/UTC+5:30)
-
-</div>
-
-<br>
-
----
-
-<!-- ======= FOOTER ======= -->
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-
-### ⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐
-
-<br>
-
-![Followers](https://img.shields.io/github/followers/smrutiparhi?style=social)
-![Stars](https://img.shields.io/github/stars/smrutiparhi?style=social)
-
-<br>
-
-**Crafted with 💜 by Smruti Ranjan Parhi**
-
-<sub>Last Updated: January 2025 | Built with passion & precision</sub>
+<sub>Hyderabad, India · IST (UTC+5:30)</sub>
 
 </div>
