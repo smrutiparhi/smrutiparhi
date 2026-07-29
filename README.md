@@ -1,131 +1,451 @@
-<!-- ============ HEADER ============ -->
+<!-- =========================================================
+     SMRUTI RANJAN PARHI — GITHUB PROFILE README
+     Futuristic • Animated • Developer Portfolio
+========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Smruti%20Ranjan%20Parhi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Applied%20AI%20%7C%20B.Tech%20CSE%20'28&descAlignY=58&descSize=15" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:667EEA,100:9D4EDD&height=230&section=header&text=SMRUTI%20RANJAN%20PARHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<a href="https://www.linkedin.com/in/smruti-parhi-35396b231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:smrutiparhi81@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://smruti-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=70&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1;Building+%E2%80%A2+Learning+%E2%80%A2+Shipping+%F0%9F%94%A5;Welcome+To+My+Digital+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/smrutiparhi">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
+<a href="https://www.linkedin.com/in/smruti-parhi">
+<img src="https://img.shields.io/badge/LINKEDIN-667EEA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:smrutiparhi81@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://smruti-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=smrutiparhi&label=PROFILE+VIEWS&color=667eea&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/smrutiparhi?label=FOLLOWERS&style=for-the-badge&color=9D4EDD"/>
+<img src="https://img.shields.io/github/stars/smrutiparhi?affiliations=OWNER&label=STARS&style=for-the-badge&color=00B4D8"/>
 
 </div>
 
-<br>
+<!-- =========================================================
+                         ABOUT
+========================================================= -->
 
-## About
+<br/>
 
-Third-year CSE student at KL University, Hyderabad. I build web applications end to end and I'm currently focused on **LLM-powered tools and agent workflows** — systems that do real work rather than just wrap an API call.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
 
-Most of what I build starts with a problem someone I know actually has. That constraint keeps the projects honest.
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
 
-- 🔨 **Currently building** — an ATS resume analyzer (Next.js) that scores resumes against multiple job descriptions with inline keyword diffing
-- 📚 **Learning** — agent architectures, system design, and getting genuinely comfortable with TypeScript
-- 🎯 **Looking for** — Summer 2027 SDE / AI engineering internships
-- 💬 **Ask me about** — React, Python, ML pipelines, or RPA (Automation Anywhere certified)
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<br>
+```javascript
+const smruti = {
+    name: "Smruti Ranjan Parhi",
+    role: "Computer Science Engineer",
+    location: "Hyderabad, India 🇮🇳",
 
-## Featured Projects
+    code: [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "JavaScript",
+        "SQL"
+    ],
+
+    interests: [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Structures & Algorithms",
+        "Software Engineering"
+    ],
+
+    currentlyBuilding: "Ideas that solve real problems 🚀",
+
+    currentlyLearning: [
+        "System Design",
+        "Advanced DSA",
+        "AI/ML",
+        "Scalable Applications"
+    ],
+
+    motto: "Build. Break. Learn. Improve. Repeat. ⚡"
+};
+```
+
+<br/>
+
+* 🔭 Building **Full-Stack & AI-powered applications**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🧠 Improving **DSA, problem solving & system design**
+* 🌐 Interested in **scalable software and real-world products**
+* 🤝 Open to **open-source collaborations**
+* 💼 Exploring **internship & software engineering opportunities**
+* ⚡ I love turning **complex problems into simple experiences**
+
+<br clear="both"/>
+
+<!-- =========================================================
+                       TECH UNIVERSE
+========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+
+<h2 align="center">🛸 TECH UNIVERSE</h2>
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" />
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+<br/><br/>
+
+### 🤖 AI / ML & Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+
+<br/><br/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+
+</div>
+
+<!-- =========================================================
+                       GITHUB MATRIX
+========================================================= -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+
+<h2 align="center">📡 GITHUB MATRIX</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smrutiparhi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=9D4EDD&text_color=FFFFFF&ring_color=667EEA&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiparhi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=smrutiparhi&theme=transparent&hide_border=true&stroke=667EEA&ring=00F5FF&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=9D4EDD&dates=8B949E"/>
+
+</div>
+
+<!-- =========================================================
+                      ACTIVITY GRAPH
+========================================================= -->
+
+<br/>
+
+<h2 align="center">⚡ CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smrutiparhi&bg_color=0D1117&color=00F5FF&line=9D4EDD&point=FFFFFF&area=true&area_color=667EEA&hide_border=true&custom_title=Smruti's%20Contribution%20Galaxy"/>
+
+</div>
+
+<!-- =========================================================
+                    CONTRIBUTION SNAKE
+========================================================= -->
+
+<br/>
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smrutiparhi/smrutiparhi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smrutiparhi/smrutiparhi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/smrutiparhi/smrutiparhi/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<p align="center">
+  <i>🐍 Watch my contributions disappear one commit at a time...</i>
+</p>
+
+<!-- =========================================================
+                      TROPHY GALAXY
+========================================================= -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+
+<h2 align="center">🏆 TROPHY GALAXY</h2>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=smrutiparhi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
+
+</div>
+
+<!-- =========================================================
+                       FEATURED WORK
+========================================================= -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=600&color=9D4EDD&center=true&vCenter=true&width=650&lines=Ideas+%E2%86%92+Code+%E2%86%92+Products;Building+Projects+That+Solve+Real+Problems;Always+Experimenting+%F0%9F%A7%AA" />
+
+</div>
+
+<br/>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌾 KrishiMitra
-Agriculture advisory platform that turns weather and soil data into crop and irrigation recommendations for smallholder farmers.
+<h3 align="center">🌾 KrishiMitra</h3>
 
-`Python` `Flask` `scikit-learn` `Weather APIs`
+<p align="center">
+<b>AI-powered smart agriculture platform</b>
+</p>
 
-**What I learned:** cleaning genuinely messy real-world agricultural data, and that model accuracy matters far less than whether a farmer can act on the output.
+<p>
+Helping make agricultural decisions smarter through machine learning, data and intelligent recommendations.
+</p>
 
-[Repository →](https://github.com/smrutiparhi)
+<b>⚡ Core Areas</b>
+
+`Python` `Machine Learning` `Flask` `APIs` `Data`
+
+<br/><br/>
+
+<p align="center">
+<a href="https://github.com/smrutiparhi">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ❤️ Cardiovascular Risk Classifier
-Supervised classifier for early cardiovascular risk screening, trained on the UCI heart disease dataset with a Flask interface for entering patient parameters.
+<h3 align="center">❤️ Heart Disease Predictor</h3>
 
-`Python` `scikit-learn` `Pandas` `Flask`
+<p align="center">
+<b>Machine-learning based health risk prediction</b>
+</p>
 
-**What I learned:** why accuracy is the wrong metric for imbalanced medical data — precision/recall tradeoffs change the whole design.
+<p>
+An ML project exploring cardiovascular risk prediction from health parameters using data preprocessing and classification.
+</p>
 
-[Repository →](https://github.com/smrutiparhi)
+<b>⚡ Core Areas</b>
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `ML`
+
+<br/><br/>
+
+<p align="center">
+<a href="https://github.com/smrutiparhi">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 📰 News Aggregator
-React app that pulls from multiple news APIs with category filtering, search, and a responsive layout.
+<h3 align="center">📰 60-Second News</h3>
 
-`React` `JavaScript` `REST APIs`
+<p align="center">
+<b>Fast & intelligent news experience</b>
+</p>
 
-**What I learned:** state management at scale, and caching strategies to stay inside API rate limits.
+<p>
+A project focused on making news easier to discover and consume through categorisation and concise information delivery.
+</p>
 
-[Repository →](https://github.com/smrutiparhi)
+<b>⚡ Core Areas</b>
+
+`Java` `APIs` `News` `UI` `Information Retrieval`
+
+<br/><br/>
+
+<p align="center">
+<a href="https://github.com/smrutiparhi">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00B4D8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔍 ATS Resume Analyzer *(in progress)*
-Parses a resume against multiple job descriptions, scores keyword coverage, and highlights gaps inline instead of returning an opaque number.
+<h3 align="center">🌐 Portfolio</h3>
 
-`Next.js` `TypeScript` `LLM APIs`
+<p align="center">
+<b>My digital developer space</b>
+</p>
 
-**Building now** — the interesting problem is ranking which missing keywords actually matter.
+<p>
+A responsive personal portfolio built to showcase projects, skills and my journey as a developer.
+</p>
 
-[Repository →](https://github.com/smrutiparhi)
+<b>⚡ Core Areas</b>
+
+`HTML` `CSS` `JavaScript` `Responsive UI`
+
+<br/><br/>
+
+<p align="center">
+<a href="https://smruti-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/VIEW_LIVE-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
-<br>
+<p align="center">
+<a href="https://github.com/smrutiparhi?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
+</p>
 
-## Tech Stack
+<!-- =========================================================
+                    CURRENTLY BUILDING
+========================================================= -->
 
-**Comfortable with**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
 
-**Currently learning**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<br>
-
-## GitHub Activity
+<h2 align="center">🛰️ CURRENT TRANSMISSION</h2>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smrutiparhi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutiparhi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%94%AD+Building+Full-Stack+%26+AI+Projects;%F0%9F%8C%B1+Learning+System+Design+%26+Advanced+DSA;%F0%9F%A4%96+Exploring+AI+%2F+ML+%26+Intelligent+Systems;%F0%9F%92%A1+Turning+Ideas+Into+Working+Products;%F0%9F%8C%8D+Looking+For+Open-Source+Collaborations" />
+
 </div>
 
-<br>
+<!-- =========================================================
+                     DEVELOPER QUOTE
+========================================================= -->
 
-## Get in Touch
+<br/>
 
-Open to internship opportunities, open-source collaboration, and interesting problems. The fastest way to reach me is email.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+
+<h2 align="center">💭 DEV THOUGHT</h2>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/smrutiparhi81@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrutiparhi81@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smruti-parhi-35396b231)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<sub>Hyderabad, India · IST (UTC+5:30)</sub>
+</div>
+
+<!-- =========================================================
+                          CONNECT
+========================================================= -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+
+<h2 align="center">🌌 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=9D4EDD&center=true&vCenter=true&width=750&lines=Let's+Build+Something+Amazing+Together+%F0%9F%9A%80;Open+To+Ideas+%E2%80%A2+Projects+%E2%80%A2+Collaborations+%E2%80%A2+Opportunities" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/smruti-parhi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-667EEA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:smrutiparhi81@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/smrutiparhi">
+<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
+
+<a href="https://smruti-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Explore-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💫 Let's create something people remember.
+
+</div>
+
+<!-- =========================================================
+                          FOOTER
+========================================================= -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+Building.+Keep+Learning.+Keep+Shipping.+%F0%9F%9A%80;See+You+In+The+Next+Commit+%F0%9F%91%8B" />
+
+<br/>
+
+<b>⚡ Crafted with code, curiosity & caffeine by Smruti Ranjan Parhi ⚡</b>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:667EEA,100:9D4EDD&height=140&section=footer&animation=fadeIn"/>
 
 </div>
