@@ -88,7 +88,7 @@ Convolutional autoencoders to flag anomalies in satellite data.
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/smrutiparhi?tab=repositories"><b>All repositories →</b></a> · <a href="https://smruti-portfolio.onrender.com"><b>Live portfolio →</b></a></p>
+<p align="center"><a href="https://github.com/smrutiparhi?tab=repositories"><b>All repositories →</b></a></p>
 
 ---
 
