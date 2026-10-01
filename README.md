@@ -129,7 +129,7 @@ Convolutional autoencoders to flag anomalies in satellite data.
 ## 🤝 Let's build something together
 
 <p align="center">
-  <a href="https://smruti-portfolio.onrender.com"><img src="https://img.shields.io/badge/View%20Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://smrutiparhi.github.io/FUTURE_FS_01/"><img src="https://img.shields.io/badge/View%20Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:smrutiparhi81@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
